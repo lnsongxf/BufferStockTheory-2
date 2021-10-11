@@ -267,3 +267,5 @@ _region_.*
 .spyproject
 
 /Old/
+src/
+/src
